@@ -1,4 +1,4 @@
-# Chatroom_client
+# Chatroom_client_URGBGFX
 this is code that lets you connect to our chatting server letting you chat with others live realtime over python
 The IP adress will be updated monthly as it changes.
 Remember to be respectful towards others, new files will be uploaded to my github.
