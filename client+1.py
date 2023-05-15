@@ -17,11 +17,6 @@ time.sleep(1)
 
 # prompt the user for a name
 name = input("Enter a Username: ")
-time.sleep(2)
-print(f'Hello"{name}"! Before you contunue please be respectful to everyone, If you do not your ip will be Banned perm.' 'If you have any questions or you would like to report someone please contact me on discord Elliot#6226.')
-time.sleo(3)
-print("We are still in V1.0 so the programm and server will have many bugs, we are working on new features so bug with me for now. Updates to the code should be posted every second day :) ")
-time.sleep(8)
 
 # send the name to the server
 client_socket.send(name.encode())
