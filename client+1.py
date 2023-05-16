@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-SERVER_HOST = '81.51.194.181'
+SERVER_HOST = 'IP HAS BEEN REMOVED TEMP'
 SERVER_PORT = 5000
 separator_token = "<SEP>"
 
