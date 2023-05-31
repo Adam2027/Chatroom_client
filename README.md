@@ -10,5 +10,6 @@ We are thrilled to unveil a massive update to our application that will revoluti
 
 To get started, simply add us on Discord and join our exclusive server. We can't wait to welcome you into our growing community of enthusiastic users.
 
-Contact me on discord: Elliot#6226 
+Contact me on discord: Elliot#6226. 
+
 Discord Server Link: https://discord.gg/MSKDG6KGBX
